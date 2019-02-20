@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/securing-web.iml" filepath="$PROJECT_DIR$/.idea/securing-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/securing-web.main.iml" filepath="$PROJECT_DIR$/.idea/modules/securing-web.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/securing-web.test.iml" filepath="$PROJECT_DIR$/.idea/modules/securing-web.test.iml" />
     </modules>
   </component>
 </project>
